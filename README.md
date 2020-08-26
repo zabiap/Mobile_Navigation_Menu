@@ -1,3 +1,3 @@
 # Mobile_Navigation_Menu
-This is a mobile navigation menu that is bold, black  and memorable.
-![alt text](screenshots/1.png )
+<h3>This is a mobile navigation menu that is bold, black  and memorable.</h3>
+<img src="screenshots/1.png" align="left" width="300" >
